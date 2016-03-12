@@ -1,0 +1,6 @@
+D:\SoftUni\VisualStudio\DataStructures\TreeAndGraphTraversal\03.RideTheHorse\bin\Debug\03.RideTheHorse.exe.config
+D:\SoftUni\VisualStudio\DataStructures\TreeAndGraphTraversal\03.RideTheHorse\bin\Debug\03.RideTheHorse.exe
+D:\SoftUni\VisualStudio\DataStructures\TreeAndGraphTraversal\03.RideTheHorse\bin\Debug\03.RideTheHorse.pdb
+D:\SoftUni\VisualStudio\DataStructures\TreeAndGraphTraversal\03.RideTheHorse\obj\Debug\03.RideTheHorse.csprojResolveAssemblyReference.cache
+D:\SoftUni\VisualStudio\DataStructures\TreeAndGraphTraversal\03.RideTheHorse\obj\Debug\03.RideTheHorse.exe
+D:\SoftUni\VisualStudio\DataStructures\TreeAndGraphTraversal\03.RideTheHorse\obj\Debug\03.RideTheHorse.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\VisualStudio\DataStructures\TreeAndGraphTraversal\04.LongestPath\bin\Debug\04.LongestPath.exe.config
+D:\SoftUni\VisualStudio\DataStructures\TreeAndGraphTraversal\04.LongestPath\bin\Debug\04.LongestPath.exe
+D:\SoftUni\VisualStudio\DataStructures\TreeAndGraphTraversal\04.LongestPath\bin\Debug\04.LongestPath.pdb
+D:\SoftUni\VisualStudio\DataStructures\TreeAndGraphTraversal\04.LongestPath\obj\Debug\04.LongestPath.csprojResolveAssemblyReference.cache
+D:\SoftUni\VisualStudio\DataStructures\TreeAndGraphTraversal\04.LongestPath\obj\Debug\04.LongestPath.exe
+D:\SoftUni\VisualStudio\DataStructures\TreeAndGraphTraversal\04.LongestPath\obj\Debug\04.LongestPath.pdb

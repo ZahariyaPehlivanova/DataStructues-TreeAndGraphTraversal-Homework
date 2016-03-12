@@ -1,0 +1,6 @@
+D:\SoftUni\VisualStudio\DataStructures\TreeAndGraphTraversal\02.RoundDance\bin\Debug\02.RoundDance.exe.config
+D:\SoftUni\VisualStudio\DataStructures\TreeAndGraphTraversal\02.RoundDance\bin\Debug\02.RoundDance.exe
+D:\SoftUni\VisualStudio\DataStructures\TreeAndGraphTraversal\02.RoundDance\bin\Debug\02.RoundDance.pdb
+D:\SoftUni\VisualStudio\DataStructures\TreeAndGraphTraversal\02.RoundDance\obj\Debug\02.RoundDance.csprojResolveAssemblyReference.cache
+D:\SoftUni\VisualStudio\DataStructures\TreeAndGraphTraversal\02.RoundDance\obj\Debug\02.RoundDance.exe
+D:\SoftUni\VisualStudio\DataStructures\TreeAndGraphTraversal\02.RoundDance\obj\Debug\02.RoundDance.pdb
